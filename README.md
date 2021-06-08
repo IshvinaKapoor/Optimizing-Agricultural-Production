@@ -30,7 +30,7 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
    ◆ pH: pH of the Soil
    
    
-   ## Libraries Required For The Project - 
+   ## Libraries Used In The Project - 
    
 ● Numpy: Used for Mathematical Operations.
 
